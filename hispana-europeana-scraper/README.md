@@ -85,7 +85,7 @@ python extract_hispana_europeana.py -o output
 python extract_hispana_europeana.py --no-filter
 ```
 
-### Keep only "direct" matches (heuristic)
+### Keep only "direct" matches
 ```bash
 python extract_hispana_europeana.py --only-direct
 ```
